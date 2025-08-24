@@ -1,0 +1,64 @@
+# -------------------------
+# OS-specific files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Editor folders & settings
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -------------------------
+# Temporary / cache files
+# -------------------------
+*.tmp
+*.temp
+.cache/
+.tmp/
+
+# -------------------------
+# Dependency directories
+# -------------------------
+node_modules/
+jspm_packages/
+
+# -------------------------
+# Build / export folders
+# -------------------------
+dist/
+build/
+out/
+coverage/
+
+# -------------------------
+# Environment variables
+# -------------------------
+.env
+.env.local
+.env.*.local
+
+# -------------------------
+# Misc
+# -------------------------
+*.pid
+*.seed
+*.pid.lock
+
+# -------------------------
+# Optional: Design source files
+# Uncomment if you store design files locally but don't want them in Git
+# *.psd
+# *.ai
+# *.sketch
